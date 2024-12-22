@@ -1,0 +1,28 @@
+{
+  "projectName": "CS115.P11",
+  "projectOwner": "lekiet1214",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "eslint",
+  "contributors": [
+    {
+      "login": "lekiet1214",
+      "name": "Le Kiet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50958432?v=4",
+      "profile": "https://github.com/lekiet1214",
+      "contributions": [
+        "code",
+        "doc",
+        "data",
+        "research"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": false
+}
